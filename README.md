@@ -35,7 +35,7 @@ My approach to AI is driven by scientific curiosity: I view "Prompt Engineering"
 
 I can say I have hobbies in many areas. I truly love each of my hobbies, but I know it's impossible to do them all. But I know that **“*a chain is only as strong as its weakest link*”** and for that reason, I want to express my respect for all my hobbies, and I also know the importance of developing hobbies. I'm a bit of a whimsical, and I don't particularly like this characteristic, but that's the reality. I wanted to share this information in this area where I feel free, that's all.
 
-🌱 *"Science is not about knowing the answers, it's about asking the right questions."* — This is also true for prompting!
+🌱 *"Science is not about knowing the answers, it's about asking the right questions."* - This is also true for prompting!
 
 ---
 📫: zaeyasa@gmail.com
