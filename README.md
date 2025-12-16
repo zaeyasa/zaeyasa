@@ -39,4 +39,5 @@ I can say I have hobbies in many areas. I truly love each of my hobbies, but I k
 
 ---
 📫: zaeyasa@gmail.com
+
 [www.linkedin.com/in/selman-muslu]
