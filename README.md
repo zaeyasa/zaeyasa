@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="banner.png" alt="Zaeyasa Nano Banana Alchemist Banner" width="100%">
+<a href="https://github.com/zaeyasa/zaeyasa/blob/main/banner.png?raw=true" targets="_blank">
+  <img src="banner_0.png" alt="Zaeyasa Nano Banana Alchemist Panoramic Banner" width="100%" style="display:block;">
+</a>
 
 <!--
 **zaeyasa/zaeyasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
